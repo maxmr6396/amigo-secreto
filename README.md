@@ -8,9 +8,6 @@ Esta es una aplicación web que permite ingresar nombres de amigos en una lista 
 ✔️ Mostrar los nombres ingresados en pantalla.  
 ✔️ Realizar un sorteo aleatorio y mostrar el resultado.  
 
-## 📷 Captura de Pantalla  
-![Vista previa](screenshot.png)  
-
 ## 🛠️ Tecnologías Usadas  
 - HTML  
 - CSS  
